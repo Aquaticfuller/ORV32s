@@ -1,0 +1,17 @@
+*.riscv
+*.host
+*.o
+*.bin
+*.om
+*.dump
+*.out
+*.hex
+*.bak
+*.bin
+*.data
+tags
+.svproject
+.project
+logs
+*_old*
+files.f

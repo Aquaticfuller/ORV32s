@@ -1,0 +1,12 @@
+*.riscv
+*.host
+*.o
+*.dump
+*.out
+*.hex
+*.bak
+tags
+.svproject
+.project
+*副本
+*_remove

@@ -1,0 +1,5 @@
+coremark.riscv
+coremark.bare.riscv
+*.dump
+*.bak
+*.bin

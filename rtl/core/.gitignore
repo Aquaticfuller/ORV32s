@@ -1,0 +1,9 @@
+*.riscv
+*.host
+*.o
+*.dump
+*.out
+*.hex
+*.bak
+*_removed.sv
+*_old*

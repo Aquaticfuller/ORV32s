@@ -1,0 +1,23 @@
+*~
+*.riscv
+*.host
+*.o
+*.dump
+*.out
+*.hex
+.*.swp
+*.pyc
+*.bak
+/autom4te.cache
+/Makefile
+/config.log
+/config.status
+/build
+
+isa/
+matmul/
+
+
+//temp
+riscv-asm-quicksort/
+*(old work space)/

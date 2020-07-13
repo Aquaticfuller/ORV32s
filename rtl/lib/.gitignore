@@ -1,0 +1,13 @@
+*.riscv
+*.host
+*.o
+*.dump
+*.out
+*.a
+*.so
+*.hex
+*.bak
+spike
+tags
+.svproject
+.project
